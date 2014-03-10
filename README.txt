@@ -25,7 +25,7 @@ some of the features will not be accessible (such as color scheme control).
 Additionally, the client requires a file to be in the same directory,
 named host_ip.txt, in order to connect to a server (this allows for the user
 to connect to different servers and allows me to omit hard-coding my IP
-address into the program.
+address into the program).
 
 
 ~~ Features ~~
